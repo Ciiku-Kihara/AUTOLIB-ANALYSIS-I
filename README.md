@@ -25,15 +25,4 @@ If you run into any issues or have questions, ideas or concerns please do make a
 message me via LinkedIn. www.linkedin.com/in/faith-kihara-825b57156
 
 ### License
-MIT License
-Copyright (c) 2021 Ciiku_Kihara
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This project is licenced under the MIT License - see the LICENSE.md file for details
