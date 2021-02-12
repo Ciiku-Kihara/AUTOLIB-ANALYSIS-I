@@ -14,8 +14,8 @@ The dataset contains data collected over a period of 9 days.
 ## Setup Instructions
 To make changes to my code, you can go ahead and fork my work.
 
-You can get the data and the dataset description for this project here [http://bit.ly/autolib_dataset (Links to an external site.)] 
-and here respectively [Link]
+You can get the data and the dataset description for this project here [http://bit.ly/autolib_dataset] 
+and here respectively [Link].
 
 ## Technologies Used
 I used Python to clean and analyze the data. I particularly used the Pandas library.
