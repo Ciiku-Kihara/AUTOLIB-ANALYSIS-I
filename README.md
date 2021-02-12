@@ -25,4 +25,4 @@ If you run into any issues or have questions, ideas or concerns please do make a
 message me via LinkedIn. www.linkedin.com/in/faith-kihara-825b57156
 
 ### License
-This project is licenced under the MIT License - see the LICENSE.md file for details
+This project is licenced under the MIT License - see the LICENSE file for details
