@@ -1,4 +1,4 @@
-# AUTOLIB_DATA_ANALYSIS
+# AUTOLIB-ANALYSIS-I
 Analysis of the Autolib dataset to understand electric car usage over time, 12th February, 2021
 
 ## Names of Contributors
